@@ -11,12 +11,9 @@ This project showcases my skills, projects, and journey as a Computer Science st
 Coming Soon...
 
 ---
-
 ## 📸 Preview
 
-## 📸 Preview
-
-(screenshots/portfolio-preview.png)
+![Portfolio Preview](screenshots/portfolio-preview.png)
 
 ---
 
