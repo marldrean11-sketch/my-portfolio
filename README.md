@@ -16,7 +16,7 @@ Coming Soon...
 
 ## 📸 Preview
 
-![Portfolio Preview](screenshots/portfolio-preview.png)
+(screenshots/portfolio-preview.png)
 
 ---
 
