@@ -14,7 +14,9 @@ Coming Soon...
 
 ## 📸 Preview
 
-(Add a screenshot of your portfolio here later.)
+## 📸 Preview
+
+![Portfolio Preview](screenshots/portfolio-preview.png)
 
 ---
 
