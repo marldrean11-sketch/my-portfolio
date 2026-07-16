@@ -81,7 +81,7 @@ body{
     padding:15px 30px;
     border-radius:8px;
     transition:.3s;
-    transition:.35s;
+    
 }
 
 .btn:hover{
@@ -666,6 +666,68 @@ footer{
     background:#005ecc;
 
     transform:translateY(-5px);
+
+}
+
+/* =====================================
+   Responsive Design
+===================================== */
+
+@media (max-width: 768px){
+
+    nav{
+        flex-direction:column;
+        gap:15px;
+        padding:20px;
+    }
+
+    nav ul{
+        flex-wrap:wrap;
+        justify-content:center;
+        gap:20px;
+    }
+
+    .hero-content{
+        flex-direction:column-reverse;
+        text-align:center;
+    }
+
+    .hero-text h1{
+        font-size:42px;
+    }
+
+    .hero-image img{
+        width:250px;
+        height:250px;
+    }
+
+    .buttons{
+        justify-content:center;
+        flex-wrap:wrap;
+    }
+
+    .about-container{
+        flex-direction:column;
+        text-align:center;
+    }
+
+    .skills-container{
+
+        grid-template-columns:1fr;
+
+    }
+
+    .project-container{
+
+        grid-template-columns:1fr;
+
+    }
+
+    .contact-container{
+
+        grid-template-columns:1fr;
+
+    }
 
 }
 
