@@ -86,12 +86,11 @@ body{
 
 .btn:hover{
     background:#005ecc;
-    .btn:hover{
-     transform:translateY(-4px);
+    transform:translateY(-4px);
 
 }
     
-}
+
 
 .btn-outline{
     background:var(--white);
